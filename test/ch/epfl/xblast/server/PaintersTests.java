@@ -1,0 +1,15 @@
+package ch.epfl.xblast.server;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class PaintersTests {
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+	
+}
